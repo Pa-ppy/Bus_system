@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "943198273238",
+    "firebase_url": "https://camp-ride-system-default-rtdb.firebaseio.com",
+    "project_id": "camp-ride-system",
+    "storage_bucket": "camp-ride-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943198273238:android:908217f56f2c1e38bb5377",
+        "android_client_info": {
+          "package_name": "com.campride.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28cOCxf1oyAxktALWMK65hiSeFPJKcoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943198273238:android:235cb3c6f1ac1bb1bb5377",
+        "android_client_info": {
+          "package_name": "com.driver.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28cOCxf1oyAxktALWMK65hiSeFPJKcoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
